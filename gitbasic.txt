@@ -1,0 +1,30 @@
+git and github
+..................
+git is a tool for accessing github in our system
+
+github is a website
+
+vcm - version control system
+
+in github remote repository is the repository that we created
+in local repostitory it is the files in diffrent developers system
+
+git operations 
+
+push - upload 
+clone - to download exact copy
+after changes only the changes will get uploaded to remote repository - push
+pull - after changes form developer 1 dev 2 option is pull
+after changes from dev 2 push
+pull - after changes from dev 2 to dev 1
+
+push - local repository to remote repository - project and new changes
+clone - remote repository to local repository - exact copy of project
+pull - remote repository to local repository - new changes
+
+
+- push
+---
+
+1 - git add- local storage to staging area
+2 - git commit - staging area to local repository
